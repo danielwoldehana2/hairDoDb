@@ -1,11 +1,11 @@
 export const ROUTES = {
   // AUTH STACK
   AUTH: 'Auth',
-  LOGIN: 'Login',
+  LOGIN: 'Hairdo',
   SIGNUP: 'SignUp',
 
   // APP STACK
-  HOME: 'Home',
-  ADD_CLIENT: 'AddClient',
+  CLIENTS: 'Clients',
+  ADD_CLIENT: 'New Client',
   CLIENT_DETAILS: 'ClientDetails',
 };
