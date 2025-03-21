@@ -73,3 +73,13 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Database backups
+src/database/backups
+
+# Auth specific (add these)
+*.key
+*.pem
+/auth/keys/
+.env.*
+!.env.example
